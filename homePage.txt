@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+	<header>
+	   <nav>
+	      <ul>
+	          <li><a href="homePage.txt">Homepage</a></li>
+		  <li>       </li>
+		  <li>       </li>
+	      </ul>
+	    </nav>
+	<h1>My First Heading</h1>
+
+	<p>My first paragraph.</p>
+
+</body>
+
+</html>
